@@ -381,22 +381,22 @@ a{
 
 #project1{
     margin-right: 120px;
-    background-image: url(/images/projects/Project1.png);
+    background-image: url(images/projects/Project1.png);
 }
 
 #project2{
     margin-left: 120px;
-    background-image: url(/images/projects/Project2.png);
+    background-image: url(images/projects/Project2.png);
 }
 
 #project3{
     margin-right: 120px;
-    background-image: url(/images/projects/Project3.png);
+    background-image: url(images/projects/Project3.png);
 }
 
 #project4{
     margin-left: 120px;
-    background-image: url(/images/projects/Project4.png);
+    background-image: url(images/projects/Project4.png);
 }
 
 .project-card::after{
